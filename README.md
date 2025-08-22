@@ -1,10 +1,10 @@
-# HarshNoiseGo! 🎸
+# HarshNoiseGo! 
 
 A real-time harsh noise generator built with JavaFX desktop application.
 
-## ✨ Features
+## Features
 
-### 🎵 8 Noise Types
+### 8 Noise Types
 - **White Noise** - Classic white noise
 - **Pink Noise** - Warm pink noise
 - **Granular Noise** - Granular texture noise
@@ -14,22 +14,22 @@ A real-time harsh noise generator built with JavaFX desktop application.
 - **Impulse Noise** - Impulse/spike noise
 - **Modulated Noise** - LFO modulated noise
 
-### 🎛️ Real-time Controls
+### Real-time Controls
 - **Volume** - 0.0 to 1.0
 - **Distortion** - Add harsh character
 - **Low-pass Filter** - Control timbre
 - **Grain Size** - Affect texture quality
 
-### 🎙️ Recording
+### Recording
 - One-click recording, export to WAV
 - Auto-save to desktop
 - Playback recorded audio
 
-### 🎲 Creative Modes
+### Creative Modes
 - **Randomize** - Randomize all parameters
 - **Chaos Mode** - Automatic parameter changes
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Requirements
 - Java 17+
@@ -44,7 +44,7 @@ mvn compile
 mvn javafx:run
 ```
 
-## 🎯 Usage
+## Usage
 
 1. **Launch** - App starts silent, manually select noise types
 2. **Select Noise** - Check any combination of noise types
@@ -52,21 +52,21 @@ mvn javafx:run
 4. **Start Recording** - Click record button in top-right
 5. **Save Work** - Auto-export WAV file after recording
 
-## 🎨 Interface Layout
+## Interface Layout
 
 - **Left** - Noise type selection panel
 - **Center** - Real-time waveform + recording controls
 - **Right** - Parameter adjustment panel
 - **Bottom** - Control button area
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **JavaFX** - User interface framework
 - **Java Sound API** - Audio processing
 - **Maven** - Project management and build
 - **Real-time Audio Generation** - Low latency audio output
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/main/java/com/harshnoise/
@@ -77,14 +77,14 @@ src/main/java/com/harshnoise/
 └── Recorder.java          # Recording functionality
 ```
 
-## 🎵 Creative Suggestions
+## Creative Suggestions
 
 - **Meditation Soundscape**: Brown + Modulated + Low grain size
 - **Industrial Effects**: Blue + Violet + Impulse + High distortion
 - **Ambient Textures**: All types + Low volume + High grain size
 - **Extreme Harsh Noise**: Violet + Impulse + High distortion + Low grain size
 
-## 📝 Development Journey
+## Development Journey
 
 This project started from simple audio tests and evolved through multiple iterations:
 - Fixed audio playback issues
@@ -93,7 +93,7 @@ This project started from simple audio tests and evolved through multiple iterat
 - Implemented recording functionality
 - Perfected parameter control system
 
-## 🎸 About Harsh Noise
+## About Harsh Noise
 
 Harsh noise is an experimental music genre that produces intense, dissonant sounds through electronic devices. This app lets you create and experiment with various noise combinations in real-time, exploring the boundaries of sound.
 
