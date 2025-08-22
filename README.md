@@ -99,4 +99,4 @@ Harsh noise is an experimental music genre that produces intense, dissonant soun
 
 ---
 
-**Enjoy your harsh noise creation journey!** 🎵✨ 
+**Enjoy your harsh noise creation journey!**  
