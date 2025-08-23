@@ -1,4 +1,4 @@
-# HarshNoiseGo! 🎸
+# HarshNoiseGo! 
 
 A real-time harsh noise generator built with JavaFX desktop application.
 
@@ -84,14 +84,6 @@ src/main/java/com/harshnoise/
 - **Ambient Textures**: All types + Low volume + High grain size
 - **Extreme Harsh Noise**: Violet + Impulse + High distortion + Low grain size
 
-## 📝 Development Journey
-
-This project started from simple audio tests and evolved through multiple iterations:
-- Fixed audio playback issues
-- Added 5 new noise types
-- Optimized user interface layout
-- Implemented recording functionality
-- Perfected parameter control system
 
 ## 🎸 About Harsh Noise
 
