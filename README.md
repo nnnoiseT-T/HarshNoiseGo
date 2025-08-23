@@ -2,7 +2,7 @@
 
 A real-time harsh noise generator built with JavaFX desktop application.
 
-## ✨ Features
+## Features
 
 ### 🎵 8 Noise Types
 - **White Noise** - Classic white noise
@@ -29,7 +29,7 @@ A real-time harsh noise generator built with JavaFX desktop application.
 - **Randomize** - Randomize all parameters
 - **Chaos Mode** - Automatic parameter changes
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Requirements
 - Java 17+
